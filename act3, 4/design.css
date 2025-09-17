@@ -99,10 +99,10 @@ body {
 
 .homepage .nav-menu {
     display: flex;
-    justify-content: space-around;
+    justify-content: flex-end;
     align-items: center;
     padding: 20px;
-    margin: 0;
+    margin: 20px;
     border-radius: 8px;
     width: 100%;
     top: 0;
