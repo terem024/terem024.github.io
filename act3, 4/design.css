@@ -102,12 +102,13 @@ body {
     justify-content: flex-end;
     align-items: center;
     padding: 20px;
-    margin: 20px;
+    margin-right: 100px;
+    margin-top: 20px;
     border-radius: 8px;
-    width: 100%;
-    top: 0;
+    width: 98%;
     left: 0;
-    position: absolute
+    top: 0%;
+    position: absolute;
 }
 
 .homepage .nav-menu a {
